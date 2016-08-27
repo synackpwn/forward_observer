@@ -1,0 +1,14 @@
+# Exclude unless you want teh partyvan
+6.0.0.0/8		#Army Information Systems Center
+7.0.0.0/8		#ARIN
+11.0.0.0/8		#DOD Intel
+21.0.0.0/8		#DDN-RVN
+22.0.0.0/8		#DISA
+26.0.0.0/8		#DISA
+28.0.0.0/8		#DSI-North
+29.0.0.0/8		#DISA
+30.0.0.0/8		#DISA
+33.0.0.0/8		#DLA Systems Automation Center
+55.0.0.0/8		#DoD Network Information Center
+214.0.0.0/8		#US-DOD
+215.0.0.0/8		#US-DOD
