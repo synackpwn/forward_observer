@@ -1,0 +1,1238 @@
+# Include list of IP blocks assigned to registered FERC entities
+
+148.115.0.0/16		#	Alabama Power Co.
+64.186.96.0/19		#	Alaska Power & Telephone Co
+64.186.96.0/23		#	Alaska Power & Telephone Co
+64.186.98.0/23		#	Alaska Power & Telephone Co
+64.186.100.0/23		#	Alaska Power & Telephone Co
+64.186.102.0/23		#	Alaska Power & Telephone Co
+64.186.104.0/23		#	Alaska Power & Telephone Co
+64.186.106.0/23		#	Alaska Power & Telephone Co
+64.186.108.0/23		#	Alaska Power & Telephone Co
+64.186.110.0/23		#	Alaska Power & Telephone Co
+64.186.112.0/23		#	Alaska Power & Telephone Co
+64.186.114.0/23		#	Alaska Power & Telephone Co
+64.186.116.0/23		#	Alaska Power & Telephone Co
+64.186.118.0/23		#	Alaska Power & Telephone Co
+64.186.120.0/23		#	Alaska Power & Telephone Co
+64.186.122.0/23		#	Alaska Power & Telephone Co
+64.186.124.0/23		#	Alaska Power & Telephone Co
+64.186.126.0/23		#	Alaska Power & Telephone Co
+198.7.38.0/23		#	Alliant Energy
+198.7.38.0/24		#	Alliant Energy
+198.7.42.0/23		#	Alliant Energy
+198.7.42.0/24		#	Alliant Energy
+198.7.43.0/24		#	Alliant Energy
+198.7.44.0/23		#	Alliant Energy
+198.7.44.0/24		#	Alliant Energy
+198.7.45.0/24		#	Alliant Energy
+198.7.46.0/23		#	Alliant Energy
+198.7.46.0/24		#	Alliant Energy
+198.7.47.0/24		#	Alliant Energy
+207.71.135.0/24		#	Alliant Energy
+207.71.136.0/23		#	Alliant Energy
+207.71.142.0/23		#	Alliant Energy
+192.189.96.0/24		#	Ameren Corp.
+192.189.98.0/24		#	Ameren Corp.
+199.38.133.0/24		#	Ameren Corp.
+204.136.7.0/24		#	Ameren Corp.
+198.51.215.0/24		#	Ameren Corp.
+198.51.216.0/24		#	Ameren Corp.
+161.235.0.0/16		#	American Electric Power
+161.235.0.0/18		#	American Electric Power
+161.235.64.0/18		#	American Electric Power
+161.235.128.0/18	#	American Electric Power
+161.235.192.0/18	#	American Electric Power
+167.239.0.0/16		#	American Electric Power
+167.239.0.0/18		#	American Electric Power
+167.239.64.0/18		#	American Electric Power
+167.239.128.0/18	#	American Electric Power
+167.239.192.0/18	#	American Electric Power
+192.152.83.0/24		#	Arizona Electric Power Cooperative, Inc.
+192.152.84.0/24		#	Arizona Electric Power Cooperative, Inc.
+192.152.85.0/24		#	Arizona Electric Power Cooperative, Inc.
+137.91.0.0/24		#	Arizona Public Service Company
+137.91.5.0/24		#	Arizona Public Service Company
+137.91.11.0/24		#	Arizona Public Service Company
+137.91.102.0/24		#	Arizona Public Service Company
+137.91.103.0/24		#	Arizona Public Service Company
+137.91.114.0/24		#	Arizona Public Service Company
+162.89.20.0/22		#	Austin Energy Corporation
+198.148.149.0/248	#	Austin Energy Corporation
+198.181.30.0/23		#	Avista Corporation
+198.251.4.0/24		#	Avista Corporation
+204.69.31.0/24		#	Bangor Hydro-Electric Company
+204.69.17.0/24		#	Bangor Hydro-Electric Company
+23.252.128.0/20		#	Barbourville Utility Commission
+40.136.200.0/21		#	Barbourville Utility Commission
+12.2.59.0/24		#	Basin Electric Power Coop
+12.2.62.0/23		#	Basin Electric Power Coop
+12.17.64.0/22		#	Basin Electric Power Coop
+12.24.196.0/22		#	Basin Electric Power Coop
+199.255.104.0/216	#	Basin Electric Power Coop
+207.243.68.0/22		#	Basin Electric Power Coop
+208.85.224.0/23		#	Basin Electric Power Coop
+208.85.228.0/23		#	Basin Electric Power Coop
+208.85.230.0/23		#	Basin Electric Power Coop
+209.62.224.0/24		#	Basin Electric Power Coop
+209.62.232.0/23		#	Basin Electric Power Coop
+209.62.235.0/24		#	Basin Electric Power Coop
+209.62.236.0/23		#	Basin Electric Power Coop
+209.62.240.0/22		#	Basin Electric Power Coop
+209.62.248.0/21		#	Basin Electric Power Coop
+216.235.160.0/21	#	Basin Electric Power Coop
+70.158.72.0/22		#	Blue Ridge Mountain Electric Membership Corporation - BRM EMC
+70.158.128.0/20		#	Blue Ridge Mountain Electric Membership Corporation - BRM EMC
+66.119.96.0/20		#	Blue Ridge Mountain Electric Membership Corporation - BRM EMC
+65.14.20.0/22		#	Blue Ridge Mountain Electric Membership Corporation - BRM EMC
+170.160.32.0/20		#	Bonneville Power Administration
+170.160.64.0/20		#	Bonneville Power Administration
+170.160.96.0/20		#	Bonneville Power Administration
+12.153.20.0/23		#	BOWLING GREEN MUNICIPAL GENERAL
+12.165.246.0/23		#	BOWLING GREEN MUNICIPAL GENERAL
+12.180.240.0/23		#	BOWLING GREEN MUNICIPAL GENERAL
+12.180.242.0/24		#	BOWLING GREEN MUNICIPAL GENERAL
+12.180.248.0/23		#	BOWLING GREEN MUNICIPAL GENERAL
+12.195.76.0/23		#	BOWLING GREEN MUNICIPAL GENERAL
+208.80.208.0/21		#	Bowling Green Municipal Utilities
+24.233.64.0/20		#	Braintree Electric Light Dept.
+24.233.80.0/20		#	Braintree Electric Light Dept.
+204.78.16.0/20		#	Central Maine Power Company
+170.46.0.0/16		#	Central Vermont Public Service (CVPS)
+170.46.1.0/24		#	Central Vermont Public Service (CVPS)
+170.46.128.0/23		#	Central Vermont Public Service (CVPS)
+170.46.130.0/23		#	Central Vermont Public Service (CVPS)
+170.46.132.0/23		#	Central Vermont Public Service (CVPS)
+170.46.150.0/24		#	Central Vermont Public Service (CVPS)
+170.46.155.0/24		#	Central Vermont Public Service (CVPS)
+170.46.156.0/24		#	Central Vermont Public Service (CVPS)
+170.46.159.0/24		#	Central Vermont Public Service (CVPS)
+170.46.162.0/24		#	Central Vermont Public Service (CVPS)
+170.46.165.0/24		#	Central Vermont Public Service (CVPS)
+170.46.170.0/24		#	Central Vermont Public Service (CVPS)
+170.46.200.0/24		#	Central Vermont Public Service (CVPS)
+64.184.160.0/21		#	Chelan County Public Utility District No.1
+198.90.8.0/22		#	Chelan County Public Utility District No.1
+198.90.12.0/23		#	Chelan County Public Utility District No.1
+198.90.12.0/23		#	Chelan County Public Utility District No.1
+192.189.215.0/24	#	Chugach Electric Association, Inc.
+192.189.216.0/24	#	Chugach Electric Association, Inc.
+192.189.217.0/24	#	Chugach Electric Association, Inc.
+192.189.218.0/24	#	Chugach Electric Association, Inc.
+192.189.219.0/24	#	Chugach Electric Association, Inc.
+192.189.220.0/24	#	Chugach Electric Association, Inc.
+66.211.57.0/24		#	City Light Gas & Water Kennett
+66.211.48.0/23		#	City Light Gas & Water Kennett
+199.182.56.0/22		#	City of Albany Water, Gas & Light Commission
+74.118.32.0/22		#	City of Anaheim
+199.27.172.0/22		#	City of Burbank
+199.48.120.0/22		#	City of Burbank
+66.194.99.0/24		#	City of Clearwater
+66.194.98.0/24		#	City of Clearwater
+66.194.97.0/24		#	City of Clearwater
+66.194.96.0/24		#	City of Clearwater
+66.194.100.0/24		#	City of Clearwater
+38.84.73.0/24		#	City of Pasadena
+204.89.8.0/21		#	City of Pasadena
+204.89.8.0/23		#	City of Pasadena
+204.89.10.0/23		#	City of Pasadena
+204.89.14.0/24		#	City of Pasadena
+192.248.248.0/24	#	City of Riverside
+156.74.249.0/24		#	City of Seattle
+156.74.250.0/23		#	City of Seattle
+156.74.250.0/24		#	City of Seattle
+156.74.251.0/24		#	City of Seattle
+71.159.20.0/23		#	City of Wyandotte
+68.78.180.0/23		#	City of Wyandotte
+67.37.68.0/23		#	City of Wyandotte
+67.36.24.0/22		#	City of Wyandotte
+67.36.23.0/24		#	City of Wyandotte
+67.36.16.0/22		#	City of Wyandotte
+63.141.16.0/20		#	City of Wyandotte
+99.187.196.0/22		#	City of Wyandotte.292520
+76.216.134.0/23		#	City of Wyandotte.292520
+70.226.42.0/23		#	City of Wyandotte.292520
+69.215.20.0/22		#	City of Wyandotte.292520
+69.212.254.0/24		#	City of Wyandotte.292520
+63.235.188.0/23		#	CKY BOWLING GREEN MUNICIPAL
+65.123.110.0/24		#	Cky Murray Electric
+65.114.124.0/23		#	Cky Murray Electric
+65.112.63.0/24		#	CKY MURRAY ELECTRIC
+63.149.19.0/24		#	CKY MURRAY ELECTRIC
+63.147.92.0/22		#	CKY Owensboro Municiple
+63.238.104.0/23		#	CKY Owensboro Municiple
+63.238.106.0/24		#	CKY Owensboro Municiple
+208.47.90.0/23		#	CKY Owensboro Municiple
+208.47.92.0/23		#	CKY Owensboro Municiple
+208.47.94.0/24		#	CKY Owensboro Municiple
+206.56.254.0/24		#	Cleco Corporation
+206.56.252.0/24		#	Cleco Corporation
+206.56.251.0/24		#	Cleco Corporation
+206.56.249.0/24		#	Cleco Corporation
+206.56.245.0/24		#	Cleco Corporation
+206.56.228.0/24		#	Cleco Corporation
+129.19.6.0/24		#	Colorado State University
+66.211.16.0/20		#	Columbia Power and Water Systems
+76.9.160.0/20		#	Columbia Power and Water Systems
+198.29.253.0/24		#	Commonwealth Edison Company
+198.29.239.0/24		#	Commonwealth Edison Company
+198.29.238.0/24		#	Commonwealth Edison Company
+198.29.236.0/23		#	Commonwealth Edison Company
+198.29.232.0/22		#	Commonwealth Edison Company
+198.29.230.0/23		#	Commonwealth Edison Company
+198.29.194.0/23		#	Commonwealth Edison Company
+198.29.190.0/23		#	Commonwealth Edison Company
+198.29.179.0/24		#	Commonwealth Edison Company
+198.29.178.0/24		#	Commonwealth Edison Company
+198.29.177.0/24		#	Commonwealth Edison Company
+198.29.175.0/24		#	Commonwealth Edison Company
+158.57.0.0/16		#	Consolidated Edison Co. of New York, Inc.
+63.108.210.0/24		#	Constellation Power Source
+67.59.60.0/23		#	CONSUMERS ENERGY
+216.70.51.0/24		#	Cooperative Light & Power
+208.82.68.0/22		#	Copper Valley Telephone Cooperative Incorporated
+198.56.10.0/24		#	Dairyland Power Cooperative
+198.56.12.0/24		#	Dairyland Power Cooperative
+198.56.13.0/24		#	Dairyland Power Cooperative
+198.56.11.0/24		#	Dairyland Power Cooperative SOC
+138.39.7.0/24		#	Delmarva Power and Light Company
+138.39.22.0/24		#	Delmarva Power and Light Company
+138.39.23.0/24		#	Delmarva Power and Light Company
+138.39.24.0/24		#	Delmarva Power and Light Company
+138.39.47.0/24		#	Delmarva Power and Light Company
+204.124.154.0/23	#	DTE Energy Company
+204.124.152.0/23	#	DTE Energy Company
+50.203.249.0/24		#	DTE Energy Corporate Services
+159.110.0.0/17		#	Duke Energy Corporation
+192.234.167.0/24	#	Duke Energy Corporation
+192.234.168.0/24	#	Duke Energy Corporation
+139.46.0.0/16		#	Duke Energy Corporation
+159.110.128.0/17	#	Duke Energy Corporation
+192.234.128.0/24	#	Duke Power Company
+192.234.127.0/24	#	Duke Power Company
+192.234.126.0/24	#	Duke Power Company
+192.234.125.0/24	#	Duke Power Company
+192.234.124.0/24	#	Duke Power Company
+192.234.123.0/24	#	Duke Power Company
+192.234.122.0/24	#	Duke Power Company
+148.134.0.0/16		#	Duke Power Company
+162.113.0.0/16		#	Duke Power Company
+216.142.36.0/23		#	Duncan Valley Electric Cooperative, Inc.
+167.77.0.0/19		#	Duquesne Light Company
+167.77.32.0/19		#	Duquesne Light Company
+167.77.64.0/18		#	Duquesne Light Company
+207.144.177.0/24	#	Edisto Electric Cooperative - Bamberg NAP
+207.144.132.0/24	#	Edisto Electric Cooperative - Barnwell NAP
+66.115.80.0/20		#	Electric Plant Board of the City of Glasgow, Kentucky
+144.58.0.0/16		#	Electric Power Research Institute
+144.58.0.0/18		#	Electric Power Research Institute
+144.58.96.0/22		#	Electric Power Research Institute
+144.58.112.0/20		#	Electric Power Research Institute
+144.58.129.0/24		#	Electric Power Research Institute
+144.58.140.0/24		#	Electric Power Research Institute
+144.58.144.0/24		#	Electric Power Research Institute
+144.58.240.0/21		#	Electric Power Research Institute
+66.128.17.0/24		#	Electric Reliability Council of Texas, Inc.
+66.128.16.0/24		#	Electric Reliability Council of Texas, Inc.
+66.128.16.0/22		#	Electric Reliability Council of Texas, Inc.
+148.127.0.0/16		#	Entergy Corporation
+148.193.0.0/16		#	Entergy Corporation
+148.194.0.0/16		#	Entergy Corporation
+198.8.0.0/24		#	Entergy Corporation
+198.8.1.0/24		#	Entergy Corporation
+198.8.2.0/24		#	Entergy Corporation
+198.8.4.0/24		#	Entergy Corporation
+198.8.5.0/24		#	Entergy Corporation
+23.251.64.0/19		#	EPB Fiber Optics
+66.18.32.0/19		#	EPB Fiber Optics
+66.18.48.0/20		#	EPB Fiber Optics
+66.85.224.0/20		#	EPB Fiber Optics
+68.169.128.0/18		#	EPB Fiber Optics
+74.205.128.0/20		#	EPB Fiber Optics
+74.221.176.0/20		#	EPB Fiber Optics
+104.128.160.0/20	#	EPB Fiber Optics
+108.174.96.0/20		#	EPB Fiber Optics
+173.247.0.0/19		#	EPB Fiber Optics
+184.174.128.0/18	#	EPB Fiber Optics
+192.111.64.0/20		#	EPB Fiber Optics
+198.98.8.0/22		#	Eugene Water and Electric Board
+198.98.12.0/24		#	Eugene Water and Electric Board
+216.99.178.0/24		#	Exelon Corporation
+216.99.180.0/24		#	Exelon Corporation
+216.99.181.0/24		#	Exelon Corporation
+216.99.182.0/24		#	Exelon Corporation
+216.99.183.0/24		#	Exelon Corporation
+216.99.184.0/24		#	Exelon Corporation
+216.99.185.0/24		#	Exelon Corporation
+216.99.186.0/24		#	Exelon Corporation
+216.99.187.0/24		#	Exelon Corporation
+216.99.188.0/24		#	Exelon Corporation
+216.99.191.0/24		#	Exelon Corporation
+68.68.169.0/24		#	Floresville Electric Light & Power Systems
+68.68.168.0/24		#	Floresville Electric Light & Power Systems
+68.68.167.0/24		#	Floresville Electric Light & Power Systems
+155.109.0.0/16		#	Florida Power & Light Company
+155.109.5.0/24		#	Florida Power & Light Company
+155.109.19.0/24		#	Florida Power & Light Company
+155.109.20.0/24		#	Florida Power & Light Company
+155.109.29.0/24		#	Florida Power & Light Company
+155.109.35.0/24		#	Florida Power & Light Company
+155.109.171.0/24	#	Florida Power & Light Company
+155.109.175.0/24	#	Florida Power & Light Company
+161.154.0.0/16		#	Florida Power & Light Company
+170.55.0.0/16		#	FPL Energy Seabrook, LLC
+148.199.180.0/24	#	Georgia Power Company
+148.199.0.0/16		#	Georgia Power Company
+148.199.180.0/24	#	Georgia Power Company
+148.199.0.0/16		#	Georgia Power Company
+216.215.0.0/18		#	Grant County Public Utility District
+216.215.1.0/24		#	Grant County Public Utility District
+65.122.154.0/24		#	GRANT COUNTY PUD
+204.88.94.0/24		#	Great River Energy
+204.88.93.0/24		#	Great River Energy
+204.88.64.0/19		#	Great River Energy
+68.235.160.0/24		#	Guadalupe Valley Electric Cooperative
+216.45.92.0/24		#	Guadalupe Valley Electric Cooperative
+148.116.0.0/16		#	Gulf Power Company
+198.8.6.0/24		#	Gulf States Utilities Company
+198.148.166.0/24	#	Hawaiian Electric Industries, Inc.
+199.89.209.0/24		#	Hawaiian Electric Industries, Inc.
+199.36.192.0/21		#	Henderson Municipal Power & Light, Inc.
+204.145.158.0/24	#	Hoosier Energy Rural Electric Cooperative, Inc.
+66.255.240.0/20		#	Hopkinsville Electric System
+50.30.112.0/20		#	Hopkinsville Electric System
+158.81.0.0/17		#	Houston Lighting & Power I/S-client
+158.81.24.0/23		#	Houston Lighting & Power I/S-client
+158.81.26.0/24		#	Houston Lighting & Power I/S-client
+158.81.27.0/24		#	Houston Lighting & Power I/S-client
+158.81.96.0/22		#	Houston Lighting & Power I/S-client
+158.81.127.0/24		#	Houston Lighting & Power I/S-client
+204.76.192.0/22		#	Idaho Power Company
+204.76.190.0/23		#	Idaho Power Company
+199.59.236.0/22		#	Independence Telecommunications Utility
+208.81.192.0/21		#	Independence Telecommunications Utility
+12.24.3.0/24		#	INDIANAPOLIS POWER AND LIGHT
+198.245.214.0/24	#	Intermountain Power Service Corp.
+198.136.229.0/24	#	Intermountain Power Service Corporation
+69.27.134.0/24		#	KAMO Electric Cooperative, Inc.
+69.27.128.0/19		#	KAMO Electric Cooperative, Inc.
+67.210.48.0/20		#	KAMO Electric Cooperative, Inc.
+206.246.0.0/19		#	KAMO Electric Cooperative, Inc.
+173.195.128.0/20	#	KAMO Electric Cooperative, Inc.
+162.246.80.0/22		#	KAMO Electric Cooperative, Inc.
+162.216.80.0/22		#	KAMO Electric Cooperative, Inc.
+144.73.0.0/16		#	Kansas City Power and Light
+144.73.0.0/17		#	Kansas City Power and Light
+144.73.128.0/17		#	Kansas City Power and Light
+209.26.182.0/24		#	Kissimmee Utility Authority
+209.26.180.0/23		#	Kissimmee Utility Authority
+209.26.178.0/23		#	Kissimmee Utility Authority
+216.158.243.0/24	#	Kit Carson Electric Cooperative, Inc
+216.158.240.0/20	#	Kit Carson Electric Cooperative, Inc
+204.238.198.0/24	#	Knoxville Utilities Board
+134.201.80.0/20		#	LA Department of Water and Power
+134.201.80.0/21		#	LA Department of Water and Power
+134.201.80.0/22		#	LA Department of Water and Power
+134.201.96.0/20		#	LA Department of Water and Power
+134.201.96.0/24		#	LA Department of Water and Power
+134.201.98.0/24		#	LA Department of Water and Power
+134.201.128.0/17	#	LA Department of Water and Power
+134.201.230.0/24	#	LA Department of Water and Power
+134.201.232.0/24	#	LA Department of Water and Power
+134.201.233.0/24	#	LA Department of Water and Power
+134.201.234.0/24	#	LA Department of Water and Power
+134.201.238.0/24	#	LA Department of Water and Power
+134.201.244.0/24	#	LA Department of Water and Power
+134.201.249.0/24	#	LA Department of Water and Power
+134.201.250.0/24	#	LA Department of Water and Power
+134.201.251.0/24	#	LA Department of Water and Power
+134.201.252.0/24	#	LA Department of Water and Power
+134.201.253.0/24	#	LA Department of Water and Power
+134.201.254.0/24	#	LA Department of Water and Power
+134.201.96.0/20		#	LA Department of Water and Power
+134.201.80.0/22		#	LA Department of Water and Power
+134.201.80.0/21		#	LA Department of Water and Power
+134.201.80.0/20		#	LA Department of Water and Power
+134.201.254.0/24	#	LA Department of Water and Power
+134.201.253.0/24	#	LA Department of Water and Power
+134.201.252.0/24	#	LA Department of Water and Power
+134.201.251.0/24	#	LA Department of Water and Power
+134.201.250.0/24	#	LA Department of Water and Power
+134.201.249.0/24	#	LA Department of Water and Power
+134.201.244.0/24	#	LA Department of Water and Power
+134.201.238.0/24	#	LA Department of Water and Power
+134.201.234.0/24	#	LA Department of Water and Power
+134.201.233.0/24	#	LA Department of Water and Power
+134.201.232.0/24	#	LA Department of Water and Power
+134.201.230.0/24	#	LA Department of Water and Power
+134.201.128.0/17	#	LA Department of Water and Power
+173.195.136.0/24	#	Lake Region Electric Cooperative
+173.195.132.0/23	#	Lake Region Electric Cooperative
+12.106.151.0/24		#	LANSING BOARD OF WATER AND LIGHT
+170.119.0.0/16		#	LG&E Energy
+170.119.72.0/24		#	LG&E Energy
+170.119.132.0/24	#	LG&E Energy
+170.119.138.0/24	#	LG&E Energy
+170.119.139.0/24	#	LG&E Energy
+170.119.142.0/24	#	LG&E Energy
+170.119.143.0/24	#	LG&E Energy
+170.119.146.0/24	#	LG&E Energy
+170.119.157.0/24	#	LG&E Energy
+170.119.158.0/24	#	LG&E Energy
+170.119.159.0/24	#	LG&E Energy
+67.221.218.0/24		#	Marshall Municipal Utilities
+65.255.139.0/24		#	Marshall Municipal Utilities
+64.111.62.0/24		#	Marshall Municipal Utilities
+64.111.46.0/24		#	Marshall Municipal Utilities
+209.152.146.0/24	#	Marshall Municipal Utilities
+209.152.138.0/24	#	Marshall Municipal Utilities
+162.253.61.0/24		#	Marshall Municipal Utilities
+206.214.112.0/20	#	Mayfield Electric & Water Systems
+204.16.160.0/24		#	Memphis Light, Gas & Water
+204.16.161.0/24		#	Memphis Light, Gas & Water
+204.16.162.0/24		#	Memphis Light, Gas & Water
+204.16.163.0/24		#	Memphis Light, Gas & Water
+204.124.192.0/24	#	MidAmerican Energy Holdings Company
+204.124.193.0/24	#	MidAmerican Energy Holdings Company
+204.124.194.0/24	#	MidAmerican Energy Holdings Company
+204.124.195.0/24	#	MidAmerican Energy Holdings Company
+206.108.232.0/23	#	MidAmerican Energy Holdings Company
+206.108.234.0/23	#	MidAmerican Energy Holdings Company
+66.39.172.0/24		#	Midstate Electric Cooperative, Inc.
+216.251.178.0/24	#	Mille Lacs Energy Cooperative
+216.251.166.0/24	#	Mille Lacs Energy Cooperative
+216.251.165.0/24	#	Mille Lacs Energy Cooperative
+134.156.0.0/16		#	Minnesota Power
+148.146.0.0/16		#	Mississippi Power Company
+148.146.0.0/16		#	Mississippi Power Company
+208.53.220.0/24		#	Missouri River Energy Services
+63.246.240.0/21		#	Morristown Utility Systems
+63.246.248.0/21		#	Morristown Utility Systems
+68.170.96.0/21		#	Morristown Utility Systems
+68.170.104.0/21		#	Morristown Utility Systems
+162.213.176.0/22	#	Morristown Utility Systems
+68.170.96.0/21		#	Morristown Utility Systems
+68.170.104.0/21		#	Morristown Utility Systems
+66.207.0.0/19		#	Muscatine Power and Water
+69.49.64.0/19		#	Muscatine Power and Water
+69.49.80.0/24		#	Muscatine Power and Water
+69.49.82.0/24		#	Muscatine Power and Water
+216.248.21.0/24		#	Nashville Electric Service
+148.183.0.0/16		#	National Grid
+192.146.145.0/24	#	National Grid
+162.219.88.0/21		#	Navajo Tribal Utility Authority
+216.234.204.0/22	#	Navajo Tribal Utility Authority
+192.132.206.0/24	#	Nebraska Public Power District
+192.132.206.0/24	#	Nebraska Public Power District
+192.206.180.0/24	#	Nevada Power Company
+205.172.240.0/23	#	New England Power Exchange
+205.172.240.0/24	#	New England Power Exchange
+205.172.241.0/24	#	New England Power Exchange
+148.144.0.0/16		#	New York Power Authority
+148.144.0.0/17		#	New York Power Authority
+148.144.29.0/24		#	New York Power Authority
+148.144.128.0/17	#	New York Power Authority
+148.144.210.0/24	#	New York Power Authority
+148.144.241.0/24	#	New York Power Authority
+148.144.242.0/24	#	New York Power Authority
+74.122.19.0/24		#	North Carolina Electric Membership Corp
+74.122.18.0/24		#	North Carolina Electric Membership Corp
+74.122.18.0/23		#	North Carolina Electric Membership Corp
+74.122.17.0/24		#	North Carolina Electric Membership Corp
+74.122.16.0/24		#	North Carolina Electric Membership Corp
+74.122.16.0/23		#	North Carolina Electric Membership Corp
+159.108.5.0/24		#	Northeast Utilities Service Company
+159.108.0.0/16		#	Northeast Utilities Service Company
+156.73.0.0/16		#	Northeast Utilities Service Company
+159.108.0.0/16		#	Northeast Utilities Service Company
+159.108.5.0/24		#	Northeast Utilities Service Company
+199.241.244.0/24	#	Norwich Public Utilities
+67.231.48.0/20		#	Ocala Electric Utility
+162.212.248.0/22	#	Ocala Electric Utility
+216.255.240.0/20	#	Ocala Electric Utility
+68.227.78.0/23		#	Ocala Electric Utility
+67.231.48.0/20		#	Ocala Electric Utility
+67.231.48.0/20		#	Ocala Electric Utility
+198.184.250.0/24	#	Oglethorpe Power Corporation
+198.184.249.0/24	#	Oglethorpe Power Corporation
+198.184.247.0/24	#	Oglethorpe Power Corporation
+198.184.246.0/24	#	Oglethorpe Power Corporation
+198.184.245.0/24	#	Oglethorpe Power Corporation
+192.251.188.0/24	#	Ohio Edison Company
+167.161.100.0/23	#	Oklahoma Gas & Electric Co.
+167.161.101.0/24	#	Oklahoma Gas & Electric Co.
+141.246.8.0/22		#	Omaha Public Power District
+141.246.6.0/24		#	Omaha Public Power District
+141.246.5.0/24		#	Omaha Public Power District
+141.246.2.0/24		#	Omaha Public Power District
+141.246.8.0/22		#	Omaha Public Power District
+141.246.6.0/24		#	Omaha Public Power District
+141.246.5.0/24		#	Omaha Public Power District
+141.246.2.0/24		#	Omaha Public Power District
+199.16.160.0/23		#	Oncor Electric Delivery Company, LLC
+199.16.162.0/23		#	Oncor Electric Delivery Company, LLC
+199.16.164.0/23		#	Oncor Electric Delivery Company, LLC
+199.102.208.0/21	#	Osage Municipal Communications Utility
+199.102.208.0/22	#	Osage Municipal Communications Utility
+199.102.212.0/22	#	Osage Municipal Communications Utility
+216.135.48.0/24		#	Owensboro Municipal Utilities
+216.135.49.0/24		#	Owensboro Municipal Utilities
+216.135.50.0/24		#	Owensboro Municipal Utilities
+216.135.51.0/24		#	Owensboro Municipal Utilities
+70.159.112.0/23		#	Owensboro Municipal Utilities - OWB LAN
+131.219.8.0/22		#	Pacificorp
+131.219.9.0/24		#	Pacificorp
+131.219.10.0/24		#	Pacificorp
+131.219.11.0/24		#	Pacificorp
+208.186.200.0/24	#	Pacificorp
+131.219.56.0/21		#	PacifiCorp (Utah Power & Light)
+131.219.0.0/21		#	PacifiCorp (Utah Power & Light)
+131.219.1.0/24		#	PacifiCorp (Utah Power & Light)
+131.219.2.0/24		#	PacifiCorp (Utah Power & Light)
+131.219.3.0/24		#	PacifiCorp (Utah Power & Light)
+131.219.5.0/24		#	PacifiCorp (Utah Power & Light)
+131.219.8.0/24		#	PacifiCorp (Utah Power & Light)
+199.36.132.0/22		#	Paducah Power System
+192.152.88.0/24		#	Pennsylvania Power & Light Co.
+159.214.0.0/16		#	Philadelphia Electric Company
+159.214.87.0/24		#	Philadelphia Electric Company
+129.19.6.0/24		#	Platte River Power Authority
+74.127.124.0/23		#	Plumas-Sierra Rural Electric
+74.127.123.0/24		#	Plumas-Sierra Rural Electric
+74.127.122.0/24		#	Plumas-Sierra Rural Electric
+74.127.112.0/23		#	Plumas-Sierra Rural Electric
+147.79.176.0/20		#	Portland General Electric Company
+147.79.224.0/20		#	Portland General Electric Company
+147.79.240.0/20		#	Portland General Electric Company
+161.186.0.0/16		#	Potomac Electric Power Company
+161.186.6.0/24		#	Potomac Electric Power Company
+161.186.66.0/24		#	Potomac Electric Power Company
+161.186.88.0/24		#	Potomac Electric Power Company
+161.186.89.0/24		#	Potomac Electric Power Company
+161.186.93.0/24		#	Potomac Electric Power Company
+161.186.147.0/24	#	Potomac Electric Power Company
+161.186.148.0/24	#	Potomac Electric Power Company
+161.186.150.0/24	#	Potomac Electric Power Company
+161.186.151.0/24	#	Potomac Electric Power Company
+61.186.0.0/16		#	Potomac Electric Power Company
+161.186.6.0/24		#	Potomac Electric Power Company
+161.186.66.0/24		#	Potomac Electric Power Company
+161.186.88.0/24		#	Potomac Electric Power Company
+161.186.89.0/24		#	Potomac Electric Power Company
+161.186.93.0/24		#	Potomac Electric Power Company
+161.186.147.0/24	#	Potomac Electric Power Company
+161.186.148.0/24	#	Potomac Electric Power Company
+161.186.150.0/24	#	Potomac Electric Power Company
+161.186.151.0/24	#	Potomac Electric Power Company
+74.191.144.0/24		#	PowerSouth Energy Cooperative, Inc.
+12.163.150.0/24		#	PPL
+167.155.0.0/16		#	PPL Corporation
+198.133.143.0/24	#	Prairie Power, Inc.
+198.133.143.0/24	#	Prairie Power, Inc.
+173.210.89.0/24		#	PRINCETON MUNICIPAL LIGHT CO. INC.
+173.210.88.0/24		#	PRINCETON MUNICIPAL LIGHT CO. INC.
+173.210.87.0/24		#	PRINCETON MUNICIPAL LIGHT CO. INC.
+170.152.0.0/16		#	Public Service Company of Colorado
+192.234.135.0/24	#	Public Service Company of Colorado
+192.234.137.0/24	#	Public Service Company of Colorado
+192.234.140.0/24	#	Public Service Company of Colorado
+198.179.152.0/24	#	Public Service Company of Colorado
+198.179.155.0/24	#	Public Service Company of Colorado
+198.179.156.0/24	#	Public Service Company of Colorado
+208.208.47.0/24		#	Public Service Electric and Gas
+162.22.252.0/22		#	Public Service Electric and Gas Company
+162.22.248.0/22		#	Public Service Electric and Gas Company
+137.20.108.0/24		#	Public Service Electric and Gas Company
+137.20.0.0/16		#	Public Service Electric and Gas Company
+63.142.192.0/20		#	Public Utility District No. 1 of Okanogan County
+66.129.174.0/24		#	Puerto Rico Electric Power Authority
+66.129.166.0/24		#	Puerto Rico Electric Power Authority
+192.152.163.0/24	#	Puget Sound Energy
+204.61.32.0/20		#	Puget Sound Energy
+204.61.48.0/21		#	Puget Sound Energy
+204.61.56.0/23		#	Puget Sound Energy
+204.61.57.0/24		#	Puget Sound Energy
+205.153.196.0/22	#	Puget Sound Energy
+74.115.246.0/24		#	Pulaski Electric System
+74.115.240.0/22		#	Pulaski Electric System
+74.115.240.0/21		#	Pulaski Electric System
+64.211.114.0/23		#	Reedsburg Utility Commission
+64.211.118.0/23		#	Reedsburg Utility Commission
+162.245.176.0/21	#	Reedsburg Utility Commission
+12.176.100.0/22		#	RICHMOND POWER LIGHT
+12.161.104.0/21		#	RICHMOND POWER LIGHT
+12.35.248.0/24		#	RIDGEWOOD POWER
+204.8.160.0/21		#	Rochelle Municipal Utilities
+50.30.121.0/24		#	Russellville Electric Plant Board
+50.30.120.0/24		#	Russellville Electric Plant Board
+50.30.112.0/22		#	Russellville Electric Plant Board
+192.247.64.0/20		#	Sacramento Municipal Utility District
+148.126.0.0/16		#	Salt River Project Agricultural Improvement and Power District
+170.32.3.0/24		#	Santee Cooper
+170.32.4.0/24		#	Santee Cooper
+170.32.5.0/24		#	Santee Cooper
+170.32.6.0/24		#	Santee Cooper
+170.32.7.0/24		#	Santee Cooper
+170.32.8.0/24		#	Santee Cooper
+170.32.9.0/24		#	Santee Cooper
+170.32.10.0/24		#	Santee Cooper
+170.32.11.0/24		#	Santee Cooper
+170.32.12.0/24		#	Santee Cooper
+170.32.13.0/24		#	Santee Cooper
+170.32.15.0/24		#	Santee Cooper
+170.32.19.0/24		#	Santee Cooper
+170.32.20.0/24		#	Santee Cooper
+170.32.22.0/24		#	Santee Cooper
+170.32.38.0/24		#	Santee Cooper
+170.32.39.0/24		#	Santee Cooper
+170.32.40.0/24		#	Santee Cooper
+170.32.41.0/24		#	Santee Cooper
+170.32.42.0/24		#	Santee Cooper
+170.32.43.0/24		#	Santee Cooper
+170.32.44.0/24		#	Santee Cooper
+170.32.45.0/24		#	Santee Cooper
+170.32.46.0/24		#	Santee Cooper
+170.32.47.0/24		#	Santee Cooper
+170.32.48.0/24		#	Santee Cooper
+170.32.49.0/24		#	Santee Cooper
+170.32.51.0/24		#	Santee Cooper
+170.32.52.0/24		#	Santee Cooper
+170.32.53.0/24		#	Santee Cooper
+170.32.54.0/24		#	Santee Cooper
+170.32.56.0/24		#	Santee Cooper
+170.32.57.0/24		#	Santee Cooper
+170.32.58.0/24		#	Santee Cooper
+170.32.59.0/24		#	Santee Cooper
+170.32.60.0/24		#	Santee Cooper
+170.32.61.0/24		#	Santee Cooper
+170.32.63.0/24		#	Santee Cooper
+170.32.64.0/24		#	Santee Cooper
+170.32.65.0/24		#	Santee Cooper
+170.32.66.0/24		#	Santee Cooper
+170.32.67.0/24		#	Santee Cooper
+170.32.69.0/24		#	Santee Cooper
+170.32.76.0/24		#	Santee Cooper
+170.32.77.0/24		#	Santee Cooper
+170.32.78.0/24		#	Santee Cooper
+170.32.84.0/24		#	Santee Cooper
+170.32.85.0/24		#	Santee Cooper
+170.32.86.0/24		#	Santee Cooper
+170.32.87.0/24		#	Santee Cooper
+170.32.88.0/24		#	Santee Cooper
+170.32.90.0/24		#	Santee Cooper
+170.32.93.0/24		#	Santee Cooper
+170.32.94.0/24		#	Santee Cooper
+170.32.96.0/24		#	Santee Cooper
+170.32.97.0/24		#	Santee Cooper
+170.32.98.0/24		#	Santee Cooper
+170.32.99.0/24		#	Santee Cooper
+170.32.100.0/24		#	Santee Cooper
+170.32.102.0/24		#	Santee Cooper
+170.32.103.0/24		#	Santee Cooper
+170.32.105.0/24		#	Santee Cooper
+170.32.106.0/24		#	Santee Cooper
+170.32.107.0/24		#	Santee Cooper
+170.32.110.0/24		#	Santee Cooper
+170.32.111.0/24		#	Santee Cooper
+170.32.113.0/24		#	Santee Cooper
+170.32.114.0/24		#	Santee Cooper
+170.32.115.0/24		#	Santee Cooper
+170.32.117.0/24		#	Santee Cooper
+170.32.120.0/24		#	Santee Cooper
+170.32.121.0/24		#	Santee Cooper
+170.32.122.0/24		#	Santee Cooper
+170.32.123.0/24		#	Santee Cooper
+170.32.127.0/24		#	Santee Cooper
+170.32.140.0/24		#	Santee Cooper
+170.32.141.0/24		#	Santee Cooper
+170.32.145.0/24		#	Santee Cooper
+170.32.157.0/24		#	Santee Cooper
+170.32.176.0/24		#	Santee Cooper
+170.32.181.0/24		#	Santee Cooper
+170.32.182.0/24		#	Santee Cooper
+170.32.186.0/24		#	Santee Cooper
+170.32.190.0/24		#	Santee Cooper
+170.32.193.0/24		#	Santee Cooper
+170.32.194.0/24		#	Santee Cooper
+170.32.196.0/24		#	Santee Cooper
+170.32.200.0/24		#	Santee Cooper
+170.32.201.0/24		#	Santee Cooper
+170.32.202.0/24		#	Santee Cooper
+170.32.208.0/24		#	Santee Cooper
+170.32.209.0/24		#	Santee Cooper
+170.32.235.0/24		#	Santee Cooper
+170.32.236.0/24		#	Santee Cooper
+170.32.237.0/24		#	Santee Cooper
+170.32.238.0/24		#	Santee Cooper
+170.32.239.0/24		#	Santee Cooper
+170.32.240.0/24		#	Santee Cooper
+170.32.241.0/24		#	Santee Cooper
+170.32.242.0/24		#	Santee Cooper
+170.32.250.0/24		#	Santee Cooper
+170.32.251.0/24		#	Santee Cooper
+204.116.178.0/24	#	Santee Cooper
+148.133.0.0/16		#	Savannah Electric & Power co.
+65.111.140.0/24		#	SCANA COMMUNICATIONS INC
+65.111.142.0/24		#	SCANA COMMUNICATIONS INC
+65.111.143.0/24		#	SCANA COMMUNICATIONS INC
+98.159.192.0/20		#	Scottsboro Electric Power Board
+173.242.224.0/20	#	Scottsboro Electric Power Board
+192.104.124.0/24	#	Shelby Electric Cooperative
+192.104.123.0/24	#	Shelby Electric Cooperative
+192.104.122.0/24	#	Shelby Electric Cooperative
+192.104.121.0/24	#	Shelby Electric Cooperative
+192.104.120.0/24	#	Shelby Electric Cooperative
+192.104.119.0/24	#	Shelby Electric Cooperative
+192.104.118.0/24	#	Shelby Electric Cooperative
+192.104.117.0/24	#	Shelby Electric Cooperative
+192.104.116.0/24	#	Shelby Electric Cooperative
+192.104.115.0/24	#	Shelby Electric Cooperative
+192.104.114.0/24	#	Shelby Electric Cooperative
+192.104.113.0/24	#	Shelby Electric Cooperative
+192.104.112.0/24	#	Shelby Electric Cooperative
+198.47.15.0/24		#	Shenandoah Valley Electric Cooperative
+198.47.14.0/24		#	Shenandoah Valley Electric Cooperative
+198.47.14.0/23		#	Shenandoah Valley Electric Cooperative
+64.30.64.0/20		#	SHREWSBURY ELECTRIC & COMMUNITY CABLE
+64.30.80.0/20		#	Shrewsbury Electric and Cable Operations
+64.30.64.0/19		#	Shrewsbury Electric and Cable Operations
+198.180.160.0/24	#	Sierra Pacific Power Co.
+198.180.160.0/24	#	Sierra Pacific Power Co.
+206.208.68.0/22		#	Snohomish County
+206.208.67.0/24		#	Snohomish County
+206.208.66.0/24		#	Snohomish County
+206.208.65.0/24		#	Snohomish County
+206.208.64.0/24		#	Snohomish County
+198.1.24.0/23		#	Snohomish County
+198.1.16.0/21		#	Snohomish County
+207.183.8.0/21		#	Snohomish County Government
+207.183.4.0/22		#	Snohomish County Government
+207.183.16.0/20		#	Snohomish County Government
+207.183.1.0/24		#	Snohomish County Government
+207.183.0.0/22		#	Snohomish County Government
+155.13.0.0/16		#	Southern California Edison
+163.235.0.0/16		#	Southern California Edison
+163.236.0.0/16		#	Southern California Edison
+192.212.0.0/15		#	Southern California Edison
+192.214.0.0/18		#	Southern California Edison
+192.214.64.0/19		#	Southern California Edison
+192.214.96.0/24		#	Southern California Edison
+12.38.227.0/24		#	SOUTHERN COMPANY SERVICE
+12.155.64.0/20		#	SOUTHERN COMPANY SERVICE
+207.243.245.0/24	#	Southern Company Services
+146.126.88.0/22		#	Southern Company Services, Inc.
+146.126.86.0/24		#	Southern Company Services, Inc.
+146.126.73.0/24		#	Southern Company Services, Inc.
+146.126.61.0/24		#	Southern Company Services, Inc.
+146.126.56.0/22		#	Southern Company Services, Inc.
+146.126.53.0/24		#	Southern Company Services, Inc.
+146.126.51.0/24		#	Southern Company Services, Inc.
+146.126.35.0/24		#	Southern Company Services, Inc.
+146.126.25.0/24		#	Southern Company Services, Inc.
+146.126.21.0/24		#	Southern Company Services, Inc.
+146.126.2.0/24		#	Southern Company Services, Inc.
+146.126.192.0/23	#	Southern Company Services, Inc.
+146.126.17.0/24		#	Southern Company Services, Inc.
+146.126.15.0/24		#	Southern Company Services, Inc.
+146.126.14.0/24		#	Southern Company Services, Inc.
+146.126.134.0/24	#	Southern Company Services, Inc.
+146.126.132.0/24	#	Southern Company Services, Inc.
+146.126.0.0/16		#	Southern Company Services, Inc.
+65.254.175.0/24		#	Southside Electric Cooperative, Inc
+192.200.63.0/24		#	Southwest Power Pool
+198.22.156.0/24		#	Southwest Power Pool
+198.22.157.0/24		#	Southwest Power Pool
+64.95.214.0/24		#	Spectra Energy Services LLC
+64.95.215.0/24		#	Spectra Energy Services LLC
+208.73.95.0/24		#	Sun Prairie Utilities
+12.171.196.0/24		#	TECO ENERGY
+152.85.0.0/16		#	Tennessee Valley Authority
+152.85.3.0/24		#	Tennessee Valley Authority
+152.85.5.0/24		#	Tennessee Valley Authority
+152.85.8.0/24		#	Tennessee Valley Authority
+152.85.42.0/24		#	Tennessee Valley Authority
+152.85.133.0/24		#	Tennessee Valley Authority
+152.85.239.0/24		#	Tennessee Valley Authority
+152.86.0.0/16		#	Tennessee Valley Authority
+152.86.133.0/24		#	Tennessee Valley Authority
+152.87.0.0/16		#	Tennessee Valley Authority
+152.87.3.0/24		#	Tennessee Valley Authority
+152.87.4.0/24		#	Tennessee Valley Authority
+152.87.8.0/24		#	Tennessee Valley Authority
+152.87.42.0/24		#	Tennessee Valley Authority
+64.25.64.0/20		#	Tohono O'Odham Utility Authority
+216.84.89.0/24		#	Tucson Electric Power Company
+216.84.89.0/24		#	Tucson Electric Power Company
+69.27.219.0/24		#	United Electric Cooperative
+216.145.144.0/24	#	United Electric Cooperative
+209.152.140.0/24	#	United Electric Cooperative
+162.253.62.0/24		#	United Electric Cooperative
+162.253.60.0/24		#	United Electric Cooperative
+162.219.63.0/24		#	United Electric Cooperative
+162.219.60.0/24		#	United Electric Cooperative
+104.37.160.0/21		#	United Electric Cooperative
+192.152.200.0/24	#	V.C. Summer Nuclear Station
+192.152.201.0/24	#	V.C. Summer Nuclear Station
+198.136.217.0/24	#	Vermont Electric Power Company, Inc.
+198.181.28.0/24		#	Washington Water Power
+198.181.21.0/24		#	Washington Water Power
+198.181.17.0/24		#	Washington Water Power
+198.181.28.0/24		#	Washington Water Power
+192.208.18.0/23		#	Western Area Power Administration
+192.208.26.0/23		#	Western Area Power Administration
+192.208.24.0/23		#	Western Area Power Administration
+192.208.23.0/24		#	Western Area Power Administration
+192.208.20.0/23		#	Western Area Power Administration
+69.151.49.0/24		#	Western Farmers Electric Cooperative
+69.151.48.0/24		#	Western Farmers Electric Cooperative
+69.151.48.0/23		#	Western Farmers Electric Cooperative
+67.64.31.0/24		#	Wheatland Electric Coop
+67.64.30.0/24		#	Wheatland Electric Coop
+67.64.29.0/24		#	Wheatland Electric Coop
+67.64.28.0/24		#	Wheatland Electric Coop
+67.66.97.0/24		#	Wheatland Electric Cooperative
+67.66.96.0/24		#	Wheatland Electric Cooperative
+156.76.0.0/16		#	Wisconsin Elec. Power
+138.230.59.0/24		#	Wolf Creek
+138.230.252.0/24	#	Wolf Creek
+138.230.254.0/24	#	Wolf Creek
+38.230.29.0/24		#	Wolf Creek Nuclear Operating Corporation
+138.230.248.0/21	#	Wolf Creek Nuclear Operating Corporation
+138.230.250.0/24	#	Wolf Creek Nuclear Operating Corporation
+138.230.251.0/24	#	Wolf Creek Nuclear Operating Corporation
+138.230.253.0/24	#	Wolf Creek Nuclear Operating Corporation
+138.230.255.0/24	#	Wolf Creek Nuclear Operating Corporation
+74.204.84.0/24		#	Wolverine Power Supply Cooperative, Inc
+216.194.144.0/20	#	Alachua County BOCC
+198.153.219.0/24	#	Alameda County Water District
+166.107.6.0/23		#	Alameda County
+166.107.8.0/24		#	Alameda County
+166.107.64.0/18		#	Alameda County
+166.107.71.0/24		#	Alameda County
+166.107.72.0/21		#	Alameda County
+166.107.80.0/20		#	Alameda County
+166.107.96.0/20		#	Alameda County
+166.107.112.0/21	#	Alameda County
+166.107.120.0/24	#	Alameda County
+166.107.122.0/24	#	Alameda County
+166.107.192.0/21	#	Alameda County
+166.107.200.0/24	#	Alameda County
+69.57.31.0/24		#	Algona Municipal Utilities
+69.57.30.0/24		#	Algona Municipal Utilities
+69.57.29.0/24		#	Algona Municipal Utilities
+69.57.28.0/24		#	Algona Municipal Utilities
+69.57.27.0/24		#	Algona Municipal Utilities
+69.57.26.0/24		#	Algona Municipal Utilities
+69.57.25.0/24		#	Algona Municipal Utilities
+69.57.24.0/24		#	Algona Municipal Utilities
+69.57.23.0/24		#	Algona Municipal Utilities
+69.57.22.0/24		#	Algona Municipal Utilities
+69.57.16.0/20		#	Algona Municipal Utilities
+173.215.118.0/24	#	Algona Municipal Utilities
+192.206.58.0/24		#	Municipality of Anchorage
+63.144.115.0/24		#	CKY CITY OF BARDSTOWN
+65.118.16.0/22		#	Cky City of Bardstown
+67.129.232.0/23		#	Cky City of Bardstown
+67.129.234.0/23		#	Cky City of Bardstown
+67.129.236.0/23		#	City of Bardstown, Kentucky
+67.133.212.0/23		#	Cky City of Bardstown
+67.215.208.0/20		#	City of Bardstown, Kentucky
+162.219.252.0/22	#	City of Bardstown, Kentucky
+208.44.214.0/23		#	Cky City of Bardstown
+208.45.201.0/24		#	City of Bardstown, Kentucky
+68.70.128.0/20		#	Baraga Telephone Company
+206.51.112.0/20		#	Baraga Telephone Company
+64.184.186.0/23		#	Benton PUD
+64.184.173.0/24		#	Benton PUD
+64.184.156.0/24		#	Benton PUD
+64.146.250.0/23		#	Benton PUD
+64.146.233.0/24		#	Benton PUD
+66.171.80.0/20		#	BRISTOL VIRGINIA UTILITIES
+66.171.80.0/23		#	BRISTOL VIRGINIA UTILITIES
+66.171.84.0/22		#	BRISTOL VIRGINIA UTILITIES
+66.171.88.0/24		#	BVU Authority
+66.171.89.0/24		#	BVU Authority
+66.171.90.0/23		#	BRISTOL VIRGINIA UTILITIES
+66.171.93.0/24		#	BVU Authority
+66.171.94.0/24		#	BVU Authority
+66.171.95.0/24		#	BVU Authority
+68.68.64.0/20		#	BRISTOL VIRGINIA UTILITIES
+68.68.64.0/23		#	BRISTOL VIRGINIA UTILITIES
+68.68.67.0/24		#	BRISTOL VIRGINIA UTILITIES
+68.68.68.0/24		#	BVU Authority
+68.68.70.0/24		#	BVU Authority
+68.68.72.0/21		#	BRISTOL VIRGINIA UTILITIES
+69.27.64.0/19		#	BRISTOL VIRGINIA UTILITIES
+69.27.64.0/20		#	BVU Authority
+69.27.80.0/20		#	BRISTOL VIRGINIA UTILITIES
+69.27.84.0/23		#	BRISTOL VIRGINIA UTILITIES
+76.77.160.0/20		#	BRISTOL VIRGINIA UTILITIES
+76.77.169.0/24		#	BRISTOL VIRGINIA UTILITIES
+76.77.172.0/22		#	BRISTOL VIRGINIA UTILITIES
+162.208.4.0/24		#	BRISTOL VIRGINIA UTILITIES
+162.208.5.0/24		#	BRISTOL VIRGINIA UTILITIES
+162.208.6.0/24		#	BRISTOL VIRGINIA UTILITIES
+162.208.7.0/24		#	BRISTOL VIRGINIA UTILITIES
+162.248.60.0/24		#	BRISTOL VIRGINIA UTILITIES
+162.248.61.0/24		#	BRISTOL VIRGINIA UTILITIES
+162.248.62.0/23		#	BRISTOL VIRGINIA UTILITIES
+216.184.64.0/19		#	BRISTOL VIRGINIA UTILITIES
+216.184.66.0/24		#	Bristol VA Utilities Board
+216.184.68.0/24		#	BVU Authority
+216.184.70.0/24		#	BVU Authority
+216.184.71.0/24		#	BVU Authority
+216.184.82.0/24		#	BVU Authority
+216.184.84.0/24		#	BVU Authority
+198.183.241.0/24	#	City of Bryan, Texas
+199.233.111.0/24	#	City of Bryan, Texas
+104.36.136.0/22		#	City of Cartersville
+162.249.48.0/24		#	Carthage Water and Electric
+162.249.49.0/24		#	Carthage Water and Electric
+162.249.50.0/24		#	Carthage Water and Electric
+162.249.51.0/24		#	Carthage Water and Electric
+162.249.52.0/24		#	Carthage Water and Electric
+162.249.53.0/24		#	Carthage Water and Electric
+162.249.54.0/24		#	Carthage Water and Electric
+162.249.55.0/24		#	Carthage Water and Electric
+24.149.0.0/19		#	The Municipal Communications Utility of the City of Cedar Falls, Iowa
+67.212.96.0/19		#	The Municipal Communications Utility of the City of Cedar Falls, Iowa
+69.57.192.0/20		#	The Municipal Communications Utility of the City of Cedar Falls, Iowa
+199.168.104.0/22	#	The Municipal Communications Utility of the City of Cedar Falls, Iowa
+199.96.168.0/22		#	City of Chanute, Kansas
+199.96.168.0/24		#	City of Chanute, Kansas
+199.96.169.0/24		#	City of Chanute, Kansas
+199.96.171.0/24		#	City of Chanute, Kansas
+208.64.128.0/22		#	City of Chanute, Kansas
+208.64.128.0/24		#	City of Chanute, Kansas
+208.64.129.0/24		#	City of Chanute, Kansas
+208.64.130.0/24		#	City of Chanute, Kansas
+208.64.131.0/24		#	City of Chanute, Kansas
+69.58.160.0/20		#	CITY OF CHASKA CHASKANET
+216.167.208.0/20	#	CITY OF CHASKA CHASKANET
+216.167.218.0/24	#	CITY OF CHASKA CHASKANET
+69.166.160.0/19		#	CLARKSVILLE DEPARTMENT OF ELECTRICITY
+104.36.200.0/22		#	CLARKSVILLE DEPARTMENT OF ELECTRICITY
+162.213.236.0/22	#	CLARKSVILLE DEPARTMENT OF ELECTRICITY
+162.222.0.0/22		#	CLARKSVILLE DEPARTMENT OF ELECTRICITY
+162.247.52.0/22		#	CLARKSVILLE DEPARTMENT OF ELECTRICITY
+162.251.172.0/22	#	CLARKSVILLE DEPARTMENT OF ELECTRICITY
+192.92.208.0/22		#	CLARKSVILLE DEPARTMENT OF ELECTRICITY
+199.46.96.0/22		#	CLARKSVILLE DEPARTMENT OF ELECTRICITY
+199.189.72.0/22		#	CLARKSVILLE DEPARTMENT OF ELECTRICITY
+206.225.136.0/21	#	CLARKSVILLE DEPARTMENT OF ELECTRICITY
+208.87.152.0/22		#	CLARKSVILLE DEPARTMENT OF ELECTRICITY
+208.88.168.0/21		#	CLARKSVILLE DEPARTMENT OF ELECTRICITY
+208.95.176.0/21		#	CLARKSVILLE DEPARTMENT OF ELECTRICITY
+206.140.120.0/23	#	City of Cleveland, Division of Water - 1152410
+66.231.32.0/19		#	Coldwater Board of Public Utilities
+199.5.231.0/24		#	City of College Station
+158.120.0.0/21		#	City of Colorado Springs
+204.131.210.0/24	#	CITY OF COLORADO SPRINGS
+198.54.11.0/24		#	City of Columbia, MO
+209.152.141.0/24	#	City of Columbia, Missouri
+206.211.160.0/19	#	City of Columbus
+206.211.160.0/20	#	City of Columbus
+206.211.176.0/20	#	City of Columbus
+199.125.66.0/24		#	Town of Concord
+24.144.0.0/21		#	Conway Corporation
+24.144.8.0/21		#	Conway Corporation
+24.144.16.0/21		#	Conway Corporation
+24.144.24.0/21		#	Conway Corporation
+24.144.32.0/21		#	Conway Corporation
+24.144.40.0/21		#	Conway Corporation
+24.144.48.0/21		#	Conway Corporation
+24.144.56.0/21		#	Conway Corporation
+66.158.176.0/20		#	Conway Corporation
+96.31.208.0/20		#	Conway Corporation
+199.59.100.0/22		#	Conway Corporation
+162.253.96.0/22		#	City of Cookeville
+205.144.208.0/20	#	Dalton Utilities
+205.144.208.0/24	#	Dalton Utilities
+205.144.209.0/24	#	Dalton Utilities
+205.144.210.0/24	#	Dalton Utilities
+205.144.211.0/24	#	Dalton Utilities
+205.144.212.0/24	#	Dalton Utilities
+205.144.213.0/24	#	Dalton Utilities
+205.144.214.0/24	#	Dalton Utilities
+205.144.215.0/24	#	Dalton Utilities
+205.144.216.0/24	#	Dalton Utilities
+205.144.217.0/24	#	Dalton Utilities
+205.144.219.0/24	#	Dalton Utilities
+205.144.220.0/22	#	Dalton Utilities
+216.146.49.0/24		#	City of Danville
+216.146.48.0/24		#	City of Danville
+71.159.23.0/24		#	City of Detroit
+71.159.22.0/24		#	City of Detroit
+76.72.128.0/20		#	Easton Utilities Commission
+69.2.160.0/20		#	Easton Utilities Commission
+69.2.176.0/20		#	Easton Utilities Commission
+68.208.156.0/22		#	CITY OF ELBERTON - ASM LAN
+208.101.197.0/24	#	City of Elberton
+208.101.196.0/24	#	City of Elberton
+208.101.195.0/24	#	City of Elberton
+208.101.194.0/24	#	City of Elberton
+208.101.193.0/24	#	City of Elberton
+208.101.192.0/24	#	City of Elberton
+40.141.236.0/23		#	WINDSTREAM - IT NETWORK - FAIRPORT, NY - #113
+216.231.240.0/24	#	City of Escondido
+216.231.241.0/24	#	City of Escondido
+74.254.244.0/22		#	Fayetteville Public Utilities
+74.254.242.0/23		#	Fayetteville Public Utilities
+65.5.48.0/21		#	Fayetteville Public Utilities
+12.207.96.0/22		#	Fayetteville Public Utilities
+68.208.116.0/23		#	BellSouth.net Inc
+198.59.49.0/24		#	City of Fort Collins
+198.59.48.0/24		#	City of Fort Collins
+198.59.47.0/24		#	City of Fort Collins
+198.59.46.0/24		#	City of Fort Collins
+67.131.56.0/21		#	Frankfort Plant Board
+67.131.48.0/21		#	Frankfort Plant Board
+67.131.48.0/20		#	Frankfort Plant Board
+63.148.157.0/24		#	Frankfort Plant Board
+63.131.208.0/20		#	Frankfort Plant Board
+63.131.192.0/20		#	Frankfort Plant Board
+63.131.192.0/19		#	Frankfort Plant Board
+216.206.216.0/22	#	Frankfort Plant Board
+204.118.72.0/21		#	Frankfort Plant Board
+204.118.64.0/21		#	Frankfort Plant Board
+204.118.64.0/20		#	Frankfort Plant Board
+199.1.136.0/21		#	Frankfort Plant Board
+199.1.128.0/21		#	Frankfort Plant Board
+199.1.128.0/20		#	Frankfort Plant Board
+198.190.222.0/23	#	Gainesville Regional Utilities
+198.212.141.0/24	#	City of Gainesville
+198.212.142.0/24	#	City of Gainesville
+66.231.128.0/19		#	Gainesville Regional Utilities
+64.238.160.0/19		#	Gainesville Regional Utilities
+3.219.37.0/24		#	Suddenlink Communications
+75.100.175.0/24		#	City of Grand Rapids
+207.177.25.0/24		#	Walnut Communications
+207.177.43.0/24		#	Walnut Communications
+207.177.44.0/24		#	Walnut Communications
+207.177.121.0/24	#	Walnut Communications
+208.126.12.0/24		#	Walnut Telephone Co., Inc.
+208.126.48.0/24		#	Walnut Telephone Co
+209.152.70.0/24		#	Walnut Communications
+216.51.165.0/24		#	Walnut Communications
+216.51.245.0/24		#	Walnut Communications
+50.205.160.0/24		#	Comcast Cable Communications Holdings, Inc
+199.184.89.0/24		#	City of High Point
+199.184.88.0/24		#	City of High Point
+12.232.143.0/24		#	CITY OF HIGHLAND
+216.19.224.0/19		#	Holyoke Gas & Electric Department
+198.135.74.0/24		#	City of Huntsville
+204.29.185.0/24		#	City of Huntsville
+74.80.0.0/18		#	Lafayette Consolidated Government
+74.80.8.0/21		#	Lafayette Consolidated Government
+74.80.16.0/21		#	Lafayette Consolidated Government
+74.80.24.0/21		#	Lafayette Consolidated Government
+74.80.32.0/21		#	Lafayette Consolidated Government
+74.80.40.0/21		#	Lafayette Consolidated Government
+74.80.48.0/21		#	Lafayette Consolidated Government
+74.80.56.0/21		#	Lafayette Consolidated Government
+76.72.0.0/17		#	Lafayette Consolidated Government
+76.72.0.0/21		#	Lafayette Consolidated Government
+76.72.8.0/21		#	Lafayette Consolidated Government
+76.72.16.0/21		#	Lafayette Consolidated Government
+76.72.24.0/21		#	Lafayette Consolidated Government
+76.72.32.0/21		#	Lafayette Consolidated Government
+76.72.40.0/21		#	Lafayette Consolidated Government
+76.72.48.0/21		#	Lafayette Consolidated Government
+76.72.56.0/21		#	Lafayette Consolidated Government
+76.72.64.0/21		#	Lafayette Consolidated Government
+76.72.72.0/21		#	Lafayette Consolidated Government
+76.72.88.0/21		#	Lafayette Consolidated Government
+76.72.116.0/22		#	Lafayette Consolidated Government
+76.72.122.0/24		#	Lafayette Consolidated Government
+76.72.123.0/24		#	Lafayette Consolidated Government
+69.1.184.0/21		#	Lafayette Consolidated Government
+69.1.160.0/21		#	Lafayette Consolidated Government
+69.1.176.0/21		#	Lafayette Consolidated Government
+12.166.216.0/21		#	LAFAYETTE CITY-PARISH CON. GOV.
+12.152.107.0/24		#	Lafayette Consolidated Government
+12.152.126.0/24		#	Lafayette Consolidated Government
+12.166.208.0/22		#	Lafayette Consolidated Government
+12.166.208.0/24		#	Lafayette Parish Clerk of Court
+12.166.209.0/24		#	Lafayette-City Hall
+12.166.210.0/24		#	Lafayette Data Systems
+12.166.211.0/24		#	Lafayette Consolidated Government
+198.60.226.0/23		#	City of Idaho Falls
+50.93.176.0/20		#	JACKSON ENERGY AUTHORITY
+69.167.192.0/19		#	JACKSON ENERGY AUTHORITY
+69.167.224.0/21		#	JACKSON ENERGY AUTHORITY
+69.167.232.0/23		#	JACKSON ENERGY AUTHORITY
+69.167.236.0/22		#	JACKSON ENERGY AUTHORITY
+69.167.240.0/20		#	JACKSON ENERGY AUTHORITY
+72.4.16.0/20		#	JACKSON ENERGY AUTHORITY
+72.4.32.0/20		#	JACKSON ENERGY AUTHORITY
+192.154.120.0/22	#	JACKSON ENERGY AUTHORITY
+207.223.16.0/20		#	JACKSON ENERGY AUTHORITY
+66.103.96.0/20		#	City of Lebanon - Lebanon Utilities
+66.103.96.0/21		#	City of Lebanon - Lebanon Utilities
+66.103.104.0/21		#	City of Lebanon - Lebanon Utilities
+199.58.55.0/24		#	City & Borough of Juneau, Alaska
+199.58.52.0/24		#	City & Borough of Juneau, Alaska
+192.245.44.0/24		#	City & Borough of Juneau (CBJ)
+162.211.45.0/24		#	City of Kings Mountain
+66.251.203.0/24		#	City Of Lakeland
+8.26.112.0/23		#	Level 3 Communications, Inc.
+12.173.227.0/24		#	CITY OF LEXINGTON
+205.143.176.0/21	#	Lincoln Electric System (LES)
+204.145.8.0/24		#	Lincoln Electric System (LES)
+204.145.8.0/21		#	Lincoln Electric System (LES)
+204.99.155.0/24		#	City of Logan
+204.99.154.0/24		#	City of Logan
+204.99.154.0/23		#	City of Logan
+204.99.153.0/24		#	City of Logan
+67.230.202.0/24		#	City of Longmont
+67.230.203.0/24		#	City of Longmont
+198.99.209.0/24		#	Los Alamos County
+162.251.24.0/23		#	City of LaGrange, Georgia
+162.251.27.0/24		#	City of LaGrange, Georgia
+162.251.28.0/23		#	City of LaGrange, Georgia
+162.251.30.0/24		#	City of LaGrange, Georgia
+68.156.165.0/24		#	CITY OF MARIETTA - ASM LAN
+64.111.46.0/24		#	Marshall Municipal Utilities
+64.111.62.0/24		#	Marshall Municipal Utilities
+65.255.139.0/24		#	Marshall Municipal Utilities
+67.221.218.0/24		#	Marshall Municipal Utilities
+162.253.61.0/24		#	Marshall Municipal Utilities
+209.152.138.0/24	#	Marshall Municipal Utilities
+209.152.146.0/24	#	Marshall Municipal Utilities
+65.254.187.0/24		#	City of Martinsville, VA
+70.33.142.0/24		#	City of Martinsville LAN Space 3-5-2009
+70.33.158.0/24		#	City of Martinsville-3/17/10
+204.63.176.0/21		#	City of Maryville
+199.101.32.0/21		#	City of Mesa
+199.101.32.0/23		#	City of Mesa
+199.101.34.0/23		#	City of Mesa
+199.101.36.0/23		#	City of Mesa
+199.101.38.0/23		#	City of Mesa
+199.101.40.0/23		#	City of Mesa
+108.59.208.0/20		#	City of Monroe
+198.37.28.0/22		#	City of Monroe
+192.230.176.0/20	#	City of Morganton
+204.95.132.0/22		#	CoMPAS Cable/City of Morganton
+204.213.224.0/21	#	CoMPAS Cable/City of Morganton
+205.244.238.0/23	#	CoMPAS Cable/City of Morganton
+63.175.11.0/24		#	City of New Bern
+97.82.18.0/24		#	City of Opelika
+24.179.15.0/24		#	City of Opelika Alabama
+162.255.64.0/22		#	City of Opelika, AL
+162.223.104.0/22	#	City of Opelika, AL
+104.37.152.0/23		#	County of Orangeburg
+104.37.154.0/23		#	County of Orangeburg
+165.166.126.0/24	#	County of Orangeburg
+165.166.170.0/23	#	County of Orangeburg
+70.128.0.0/19		#	Paragould City Light & Water
+66.139.183.0/24		#	Paragould City Light and Water
+66.139.180.0/22		#	Paragould City Light and Water
+65.71.156.0/24		#	Paragould City Light & Water
+205.152.51.0/24		#	Orlando Utilities Commission
+208.80.76.0/22		#	Town of Pineville
+199.229.240.0/22	#	CITY OF POPLAR BLUFF - MUNICIPAL UTILTIES
+209.54.0.0/20		#	CITY OF POPLAR BLUFF - MUNICIPAL UTILTIES
+208.88.160.0/22		#	City of Radford
+64.61.192.0/24		#	Rochester Public Utilities
+216.189.94.0/24		#	City of Rock Hill
+136.245.0.0/16		#	City of Roseville
+12.30.189.0/24		#	CITY OF RUSTON
+208.46.188.0/24		#	City of Ruston
+209.211.124.0/24	#	City of Ruston
+23.236.16.0/20		#	Sallisaw Municipal Authority
+161.226.0.0/16		#	City of San Antonio
+161.226.4.0/24		#	City of San Antonio
+161.226.102.0/24	#	City of San Antonio
+161.226.118.0/24	#	City of San Antonio
+161.226.121.0/24	#	City of San Antonio
+161.226.133.0/24	#	City of San Antonio
+161.226.134.0/24	#	City of San Antonio
+161.226.135.0/24	#	City of San Antonio
+161.226.141.0/24	#	City of San Antonio
+161.226.142.0/24	#	City of San Antonio
+161.226.148.0/24	#	City of San Antonio
+161.226.170.0/24	#	City of San Antonio
+161.226.202.0/24	#	City of San Antonio
+161.226.203.0/24	#	City of San Antonio
+161.226.204.0/24	#	City of San Antonio
+161.226.205.0/24	#	City of San Antonio
+161.226.206.0/24	#	City of San Antonio
+161.226.208.0/24	#	City of San Antonio
+161.226.209.0/24	#	City of San Antonio
+161.226.216.0/24	#	City of San Antonio
+161.226.217.0/24	#	City of San Antonio
+161.226.219.0/24	#	City of San Antonio
+161.226.224.0/24	#	City of San Antonio
+161.226.234.0/24	#	City of San Antonio
+161.226.236.0/24	#	City of San Antonio
+161.226.238.0/24	#	City of San Antonio
+161.226.239.0/24	#	City of San Antonio
+161.226.241.0/24	#	City of San Antonio
+161.226.242.0/24	#	City of San Antonio
+208.86.63.0/24		#	CITY OF SCOTTSBURG
+208.86.56.0/21		#	CITY OF SCOTTSBURG
+208.69.160.0/21		#	CITY OF SCOTTSBURG
+67.199.160.0/24		#	Spanish Fork City
+67.199.161.0/24		#	Spanish Fork City
+67.199.162.0/24		#	Spanish Fork City
+67.199.163.0/24		#	Spanish Fork City
+67.199.164.0/24		#	Spanish Fork City
+67.199.165.0/24		#	Spanish Fork City
+67.199.166.0/24		#	Spanish Fork City
+67.199.167.0/24		#	Spanish Fork City
+67.199.168.0/24		#	Spanish Fork City
+67.199.169.0/24		#	Spanish Fork City
+67.199.170.0/24		#	Spanish Fork City
+67.199.171.0/24		#	Spanish Fork City
+67.199.172.0/24		#	Spanish Fork City
+67.199.173.0/24		#	Spanish Fork City
+67.199.174.0/24		#	Spanish Fork City
+67.199.175.0/24		#	Spanish Fork City
+67.199.176.0/24		#	Spanish Fork City
+67.199.177.0/24		#	Spanish Fork City
+67.199.178.0/24		#	Spanish Fork City
+67.199.179.0/24		#	Spanish Fork City
+67.199.180.0/24		#	Spanish Fork City
+67.199.181.0/24		#	Spanish Fork City
+67.199.182.0/24		#	Spanish Fork City
+67.199.183.0/24		#	Spanish Fork City
+67.199.184.0/24		#	Spanish Fork City
+67.199.185.0/24		#	Spanish Fork City
+67.199.186.0/24		#	Spanish Fork City
+67.199.187.0/24		#	Spanish Fork City
+67.199.188.0/24		#	Spanish Fork City
+67.199.189.0/24		#	Spanish Fork City
+67.199.190.0/24		#	Spanish Fork City
+67.199.191.0/24		#	Spanish Fork City
+69.63.28.0/24		#	Spencer Municipal Utilities
+69.63.22.0/24		#	Spencer Municipal Utilities
+69.63.0.0/24		#	Spencer Municipal Utilities
+67.55.236.0/24		#	Spencer Municipal Utilities
+67.55.157.0/24		#	Spencer Municipal Utilities
+66.43.247.0/24		#	Spencer Municipal Utilities
+216.51.251.0/24		#	Spencer Municipal Utilities
+216.51.231.0/24		#	Spencer Municipal Utilities
+208.126.177.0/24	#	Spencer Municipal Utilities
+208.126.115.0/24	#	Spencer Municipal Utilities
+207.32.49.0/24		#	Spencer Municipal Utilities
+207.32.42.0/24		#	Spencer Municipal Utilities
+207.199.237.0/24	#	Spencer Municipal Utilities
+207.199.213.0/24	#	Spencer Municipal Utilities
+207.177.28.0/24		#	Spencer Municipal Utilities
+207.177.124.0/24	#	Spencer Municipal Utilities
+173.215.21.0/24		#	Spencer Municipal Utilities
+12.182.236.0/24		#	CITY OF ST CHARLES
+130.19.0.0/16		#	PG&E
+131.89.0.0/16		#	PG&E
+131.90.0.0/16		#	PG&E
+192.68.118.0/24		#	PG&E
+192.68.119.0/24		#	PG&E
+192.68.122.0/24		#	PG&E
+192.68.123.0/24		#	PG&E
+192.68.124.0/24		#	PG&E
+192.68.125.0/24		#	PG&E
+192.80.224.0/24		#	PG&E
+192.80.251.0/24		#	PG&E
+162.209.38.32/29	#	Touchstone Cooperatives
+50.57.28.112/28		#	Touchstone Cooperatives
+68.16.18.0/24		#	Multiple Coops
